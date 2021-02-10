@@ -1,0 +1,11 @@
+1. Add FUNJOCOIN blockchain to metamask - http://64.225.59.213:8545
+
+2. Open Remix https://remix.ethereum.org/
+
+3. Create a new file fun50.sol
+
+4. copy contract code from https://github.com/funjocoin-dev/fun50 and change parameter on line 100
+
+5. Change environment to injected web
+
+6 deploy contract
